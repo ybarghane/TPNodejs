@@ -1,0 +1,10 @@
+{
+ "name": "nodejs",
+ "version": "0.1.0",
+ "description": "Mon Projet A Moi",
+ "author": "Y.Barghane"
+ },
+ "dependencies": {
+ "express": "4.x"
+ }
+}
